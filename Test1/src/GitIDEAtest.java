@@ -7,4 +7,5 @@ public class GitIDEAtest {
     int a ;
     double b;
     Integer c;
+    int d;
 }
